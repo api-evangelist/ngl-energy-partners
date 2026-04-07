@@ -1,7 +1,12 @@
 aid: ngl-energy-partners
-url: https://raw.githubusercontent.com/api-evangelist/ngl-energy-partners/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ngl-energy-partners/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.ngl-energy-partners.com
+description: >-
+  NGL Energy Partners is a diversified midstream energy company with operations in
+  water solutions, crude oil logistics, and liquids logistics serving producers and
+  customers in the energy industry.
