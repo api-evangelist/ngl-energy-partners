@@ -1,7 +1,9 @@
 ---
 title: NGL Energy Partners schedules earnings call after fiscal ...
 url: https://www.sahmcapital.com/news/content/ngl-energy-partners-schedules-earnings-call-after-fiscal-year-results-release-2026-05-12
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NGL Energy Partners" press release artificial intelligence'
 position: 3
 source: serpapi-google
